@@ -109,3 +109,7 @@ If a URL fails to load, an error message will be shown
 
 Processed data is saved in faiss_store_groq.pkl
 
+Example:
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e9d9982b-080f-456f-b258-3903bb688e08" />
+
+
